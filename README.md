@@ -9,7 +9,7 @@ python setup.py sdist
 pip install --user dist/*
 
 # 使用
-1 给项目指定一个新的测试数据库
-2 清理所有migration目录
-3 运行 python manange.py allmigrations
-4 运行 python manage.py makesql
+1 给项目指定一个新的测试数据库  
+2 清理所有migration目录  
+3 运行 python manange.py allmigrations  
+4 运行 python manage.py makesql  
