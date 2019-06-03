@@ -6,7 +6,7 @@
 python setup.py sdist
 
 # 安装
-pip install --user dist/*
+python setup.py install
 
 # 使用
 1 给项目指定一个新的测试数据库  
