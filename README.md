@@ -12,7 +12,7 @@ pip install git+https://github.com/yang0/django_sqltools
 5 运行 python manange.py allmigrations   
 6 运行 python manage.py makesql  
 
-# 导入power design
+# 导入power designer
 上一步运行结束后会生成dump.sql  
 以下操作在power designer里面运行  
 1 导入  
