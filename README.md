@@ -1,12 +1,8 @@
 # django_sqltools
 根据model生成sql，或者根据sql生成model
 
-
-# 打包
-python setup.py sdist
-
 # 安装
-python setup.py install
+pip install git+https://github.com/yang0/django_sqltools
 
 # 使用
 1 给项目指定一个新的测试数据库  
