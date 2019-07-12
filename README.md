@@ -20,3 +20,6 @@ pip install git+https://github.com/yang0/django_sqltools
   
 2 将comment字段转换成name  
    tools-> excute commands， 把本项目目录powerdesigner下的vb脚本导入后运行，大功告成
+
+效果如下：  
+![screen shot](./img/1.png)
