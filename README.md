@@ -4,6 +4,8 @@
 # 安装
 pip install git+https://github.com/yang0/django_sqltools
 
+django版本 2.2有效
+
 # 使用
 1 给项目指定一个新的测试数据库  
 2 清理所有migration目录  
