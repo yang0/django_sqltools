@@ -9,7 +9,7 @@ pip install git+https://github.com/yang0/django_sqltools
 2 清理所有migration目录  
 3 安装app: django_sqltools  
 4 mysql engine指定为：django_sqltools.mysql  
-5 运行 python manange.py allmigrations   
+5 运行 python manage.py allmigrations   
 6 运行 python manage.py makesql  
 
 # 导入power designer
